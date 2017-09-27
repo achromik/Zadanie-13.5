@@ -1,0 +1,15 @@
+{
+  "name": "zadanie-13.5",
+  "version": "1.0.0",
+  "description": "Testowy do nauki npm'a",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Aleksander Chromik",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
